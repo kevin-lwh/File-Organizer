@@ -21,7 +21,7 @@ Simply open the "File-Organizer" project in NetBeans or other Java IDE and hit r
    - Sort the folder by the type of the files (.exe, .txt, .jpg, .pdf, etc.)
 
 ## Screenshots
-
+![](images/Screenshot_1.png)
 
 ## Built With
 * Java
